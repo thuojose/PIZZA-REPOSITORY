@@ -18,7 +18,7 @@ CSS and
 Js
 
 Support and contact details
-amazona pizzeria@gmail.com
+amazonapizzeria@gmail.com
 
 License
 MIT License Copyright (c) 2020 Amazona Pizzeria
