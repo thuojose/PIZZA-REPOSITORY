@@ -267,26 +267,26 @@ header .navbar a:hover{
   padding:1rem .1rem;
 }
 
-.steps{
+.delivery-options{
   display: flex;
   flex-wrap: wrap;
   gap:1.5rem;
   padding:1rem;
 }
 
-.steps .box{
+.delivery-options .box{
   flex:1 1 25rem;
   padding:1rem;
   text-align: center;
 }
 
-.steps .box img{
+.delivery-options .box img{
   border-radius: 50%;
   border:1rem solid #fff;
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
 }
 
-.steps .box h3{
+.delivery-options .box h3{
   font-size: 3rem;
   color:#333;
   padding:1rem;

@@ -1,9 +1,5 @@
 let menu = document.querySelector('#menu-bar');
 let navbar = document.querySelector('.navbar');
-let totalamount = document.querySelector('.price-bar')
-let delivery = document.querySelector('.order-bar')
-let ordernow = document.querySelector('.order-bar')
-let value = document.querySelector('.ordernow-bar')
 menu.onclick = () =>{
 
   menu.classList.toggle('fa-times');
