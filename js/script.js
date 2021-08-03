@@ -5,11 +5,11 @@ let delivery = document.querySelector('.order-bar')
 let ordernow = document.querySelector('.order-bar')
 let value = document.querySelector('.ordernow-bar')
 menu.onclick = () =>{
+}
 
   menu.classList.toggle('fa-times');
   navbar.classList.toggle('active');
   
-}
 
 window.onscroll = () =>{
 
